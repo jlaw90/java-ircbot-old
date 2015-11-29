@@ -1,0 +1,6 @@
+out
+lib
+projectFilesBackup
+*.jar
+*.zip
+run.bat
